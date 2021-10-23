@@ -1,0 +1,5 @@
+{
+    "key": "ctrl+alt+right",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "editorTextFocus || terminalFocus"
+}
